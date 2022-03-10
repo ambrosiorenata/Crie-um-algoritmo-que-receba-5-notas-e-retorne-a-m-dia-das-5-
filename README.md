@@ -1,0 +1,1 @@
+# Crie-um-algoritmo-que-receba-5-notas-e-retorne-a-m-dia-das-5-
